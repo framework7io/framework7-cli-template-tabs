@@ -60,11 +60,11 @@ You can use it in any place of HTML files, even in HEAD section to use different
     <link rel="stylesheet" href="css/framework7.ios.colors.min.css">
     <!-- @f7-endif-ios -->
 
-    <!-- f7-if-android -->
+    <!-- @f7-if-android -->
     <link rel="stylesheet" href="css/material-icons.css">
     <link rel="stylesheet" href="css/framework7.material.min.css">
     <link rel="stylesheet" href="css/framework7.material.colors.min.css">
-    <!-- f7-endif-android -->
+    <!-- @f7-endif-android -->
 </head>
 ```
 
