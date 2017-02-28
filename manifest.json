@@ -1,0 +1,23 @@
+{
+    "template": "tabs",
+    "css": "./css/",
+    "js": "./js/",
+    "fonts": "./fonts/",
+    "src": "./www/",
+    "xml": {
+        "preference": [
+            {
+                "name": "webviewbounce",
+                "value": "false"
+            },
+            {
+                "name": "UIWebViewBounce",
+                "value": "false"
+            },
+            {
+                "name": "DisallowOverscroll",
+                "value": "true"
+            }
+        ]
+    }
+}
